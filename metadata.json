@@ -1,0 +1,6 @@
+{
+  "name": "Reto de Derechos Laborales AI",
+  "description": "Una aplicación interactiva de aprendizaje sobre derechos laborales impulsada por IA, diseñada con la estética de UGT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
